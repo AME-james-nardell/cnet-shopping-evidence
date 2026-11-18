@@ -1,0 +1,10 @@
+Observed 2026-11-06 12:14 UTC with: nslookup r.v2i8b.com
+Non-authoritative answer:
+Server:  one.one.one.one
+Address:  1.1.1.1
+
+Name:    shopnomix-production-lb-e5f223b-933234706.us-east-1.elb.amazonaws.com
+Addresses:  32.198.227.84
+	  18.235.206.213
+Aliases:  r.v2i8b.com
+

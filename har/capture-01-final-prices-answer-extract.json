@@ -1,0 +1,49 @@
+{
+ "note": "Extract of the live final-prices.php answer James pasted on 9 Nov 2026 (Lowe's DCD771C2 page, Compare test). The viewer's exit IP (scraped_data.userip) is omitted. Not the full response.",
+ "request_price_scraped_by_extension": "248 (page displayed Now $119.00, was $179.00)",
+ "test": "TEST",
+ "message": "Save 62%! This item costs $153.00 less at eBay - New, Buy it Now",
+ "ship_message": "Savings Found! This item costs $95.00 (Free Shipping) at eBay - New, Buy it Now",
+ "scraped_data": {
+  "upc": "885911325905",
+  "title": "DEWALT 20-volt Max 1/2-in Keyless Cordless Drill 2 -Batteries Included, and Charger Included",
+  "price": "248",
+  "sku": "506283",
+  "mpn": "DCD771C2",
+  "brand": "DEWALT",
+  "rid": "28",
+  "ver": "14.34"
+ },
+ "sellers_shown": [
+  {
+   "seller": "eBay - New, Buy it Now",
+   "price": "$95.00",
+   "link_chain": "rdr.php -> ebay.com/itm/920101395213 (eBay Partner Network campid=5337429398, customid=PQRST)"
+  },
+  {
+   "seller": "Ace Hardware",
+   "price": "$129.00",
+   "link_chain": "rdr.php -> cc.cnet.com/v1/otc -> acehardware.com (utm_source=impact)"
+  },
+  {
+   "seller": "Acme Tools",
+   "price": "$129.00",
+   "link_chain": "rdr.php -> cc.cnet.com/v1/otc -> acmetools.com"
+  },
+  {
+   "seller": "MSC Industrial Supply",
+   "price": "$323.49",
+   "link_chain": "rdr.php -> jdoqocy.com (CJ) -> mscdirect.com"
+  },
+  {
+   "seller": "Newark",
+   "price": "$367.43",
+   "link_chain": "rdr.php -> kqzyfj.com (CJ) -> newark.com"
+  }
+ ],
+ "affiliate_links_in_answer": {
+  "affiliate_click_url_savings_present": "rdr.php origin=aff_savings -> unctew.com/adServe/aff?cmpid=566714&pid=457929&ap1=457929&dp1=457929&dlink=https://lowes.com&subid=PQRST",
+  "affiliate_compare_prices_click_url": "same destination, origin=aff_compare_ns",
+  "affiliate_close_click_url": "same destination, origin=aff_close"
+ }
+}

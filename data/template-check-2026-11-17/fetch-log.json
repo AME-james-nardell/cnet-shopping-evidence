@@ -1,0 +1,1456 @@
+[
+  {
+    "domain": "7eer.net",
+    "hosts_seen": [
+      "ulta.7eer.net"
+    ],
+    "fetched_utc": "2026-11-17T01:46:10.644567+00:00",
+    "errors": [
+      "https://7eer.net/: URLError: <urlopen error timed out>",
+      "http://7eer.net/: URLError: <urlopen error timed out>"
+    ]
+  },
+  {
+    "domain": "7tiv.net",
+    "hosts_seen": [
+      "bestbuy.7tiv.net"
+    ],
+    "fetched_utc": "2026-11-17T01:47:11.303829+00:00",
+    "errors": [
+      "https://7tiv.net/: HTTPError: HTTP Error 404: Not Found",
+      "http://7tiv.net/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "7zd4df.net",
+    "hosts_seen": [
+      "doordash.7zd4df.net"
+    ],
+    "fetched_utc": "2026-11-17T01:47:14.208213+00:00",
+    "errors": [
+      "https://7zd4df.net/: HTTPError: HTTP Error 404: Not Found",
+      "http://7zd4df.net/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "825trk.com",
+    "hosts_seen": [
+      "825trk.com",
+      "lg-brn.825trk.com",
+      "lg-crl.825trk.com",
+      "lg-dbr.825trk.com",
+      "lg-lvr.825trk.com",
+      "lg-twn.825trk.com",
+      "lg-zhr.825trk.com"
+    ],
+    "fetched_utc": "2026-11-17T01:47:15.345137+00:00",
+    "url": "https://825trk.com/",
+    "status": 200,
+    "final_url": "https://825trk.com/",
+    "bytes": 0,
+    "raw_file": "825trk.com.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "848trk.com",
+    "hosts_seen": [
+      "ne-32-0.848trk.com",
+      "ne-32-1046.848trk.com",
+      "ne-33-0.848trk.com",
+      "ne-33-1046.848trk.com",
+      "ne-33-577.848trk.com",
+      "ne-33-89.848trk.com",
+      "ne-78-0.848trk.com",
+      "ne-79-577.848trk.com",
+      "ne-79-89.848trk.com",
+      "ne-96-0.848trk.com",
+      "ne-96-89.848trk.com",
+      "ne-97-0.848trk.com",
+      "ne-97-145.848trk.com",
+      "ne-97-577.848trk.com",
+      "nf-12-0.848trk.com"
+    ],
+    "fetched_utc": "2026-11-17T01:47:16.873699+00:00",
+    "url": "https://848trk.com/",
+    "status": 200,
+    "final_url": "https://848trk.com/",
+    "bytes": 0,
+    "raw_file": "848trk.com.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "8s4u9r.net",
+    "hosts_seen": [
+      "footlocker.8s4u9r.net"
+    ],
+    "fetched_utc": "2026-11-17T01:47:18.258413+00:00",
+    "errors": [
+      "https://8s4u9r.net/: HTTPError: HTTP Error 404: Not Found",
+      "http://8s4u9r.net/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "9zpg.net",
+    "hosts_seen": [
+      "petco.9zpg.net"
+    ],
+    "fetched_utc": "2026-11-17T01:47:19.335090+00:00",
+    "errors": [
+      "https://9zpg.net/: HTTPError: HTTP Error 404: Not Found",
+      "http://9zpg.net/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "activejunky.com",
+    "hosts_seen": [
+      "api.activejunky.com",
+      "www.activejunky.com"
+    ],
+    "fetched_utc": "2026-11-17T01:47:20.692413+00:00",
+    "url": "https://activejunky.com/",
+    "status": 200,
+    "final_url": "https://www.activejunky.com/",
+    "bytes": 1059859,
+    "raw_file": "activejunky.com.html",
+    "sha256": "00df036d66fc571e2950e230475f3fe1286ac5f57e9fce8ff71e09d48f462bff",
+    "signatures": [],
+    "title": "Active Junky: Earn Cash Back on Everything You Love"
+  },
+  {
+    "domain": "adjust.com",
+    "hosts_seen": [
+      "app.adjust.com"
+    ],
+    "fetched_utc": "2026-11-17T01:47:21.787105+00:00",
+    "errors": [
+      "https://adjust.com/: HTTPError: HTTP Error 429: Too Many Requests"
+    ],
+    "url": "http://adjust.com/",
+    "status": 200,
+    "final_url": "https://www.adjust.com/",
+    "bytes": 270248,
+    "raw_file": "adjust.com.html",
+    "sha256": "a527f495869f504a9e0df415e45e0b1181b3a07fd498aa59ea51d51402be0231",
+    "signatures": [],
+    "title": "Accelerate your app\u2019s growth with Adjust | Adjust"
+  },
+  {
+    "domain": "adstreampro.net",
+    "hosts_seen": [
+      "adstreampro.net"
+    ],
+    "fetched_utc": "2026-11-17T01:47:23.047258+00:00",
+    "url": "https://adstreampro.net/",
+    "status": 200,
+    "final_url": "https://adstreampro.net/login",
+    "bytes": 7770,
+    "raw_file": "adstreampro.net.html",
+    "sha256": "4ea72fe64ccb6fef3a04fca1bb463779c2afdc06f3a2bb015ebecffa22bc9434",
+    "signatures": [],
+    "title": "Login | Adtransfer"
+  },
+  {
+    "domain": "adtrackrconnect.com",
+    "hosts_seen": [
+      "wildbloomfamilies.adtrackrconnect.com"
+    ],
+    "fetched_utc": "2026-11-17T01:47:25.806973+00:00",
+    "errors": [
+      "https://adtrackrconnect.com/: HTTPError: HTTP Error 404: Not Found",
+      "http://adtrackrconnect.com/: URLError: <urlopen error timed out>"
+    ]
+  },
+  {
+    "domain": "affentro.com",
+    "hosts_seen": [
+      "redirects.affentro.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:12.057828+00:00",
+    "url": "https://affentro.com/",
+    "status": 200,
+    "final_url": "https://www.affentro.com/",
+    "bytes": 116561,
+    "raw_file": "affentro.com.html",
+    "sha256": "e33441aac9085e72f3386839fc252e5a7192187bec58a5aae48ae91b84830b2c",
+    "signatures": [],
+    "title": "Boost Earnings with Affentro | Top Affiliate Network"
+  },
+  {
+    "domain": "anrdoezrs.net",
+    "hosts_seen": [
+      "www.anrdoezrs.net"
+    ],
+    "fetched_utc": "2026-11-17T01:48:13.094026+00:00",
+    "errors": [
+      "https://anrdoezrs.net/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://anrdoezrs.net/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "appdeals.online",
+    "hosts_seen": [
+      "rtb.appdeals.online"
+    ],
+    "fetched_utc": "2026-11-17T01:48:13.576185+00:00",
+    "errors": [
+      "https://appdeals.online/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://appdeals.online/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "arashparyron.org",
+    "hosts_seen": [
+      "arashparyron.org"
+    ],
+    "fetched_utc": "2026-11-17T01:48:14.055123+00:00",
+    "url": "https://arashparyron.org/",
+    "status": 204,
+    "final_url": "https://arashparyron.org/",
+    "bytes": 0,
+    "raw_file": "arashparyron.org.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "avantlink.com",
+    "hosts_seen": [
+      "classic.avantlink.com",
+      "www.avantlink.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:15.175924+00:00",
+    "url": "https://avantlink.com/",
+    "status": 200,
+    "final_url": "https://avantlink.com/",
+    "bytes": 62586,
+    "raw_file": "avantlink.com.html",
+    "sha256": "fd40faf31f24c6429e4d01c67f1f45637391b2272b830031851dcc38dad8c157",
+    "signatures": [],
+    "title": "AvantLink | Affiliate Marketing Platform"
+  },
+  {
+    "domain": "awin1.com",
+    "hosts_seen": [
+      "awin1.com",
+      "www.awin1.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:16.276327+00:00",
+    "url": "https://awin1.com/",
+    "status": 200,
+    "final_url": "https://www.awin.com/",
+    "bytes": 300287,
+    "raw_file": "awin1.com.html",
+    "sha256": "dda479b0900323b37ed395c0ea9e135c91c411c1c7e49e1f71d930a229e0c3c5",
+    "signatures": [],
+    "title": "Join our global affiliate platform  | Awin"
+  },
+  {
+    "domain": "bestadperf.com",
+    "hosts_seen": [
+      "r.bestadperf.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:18.669341+00:00",
+    "errors": [
+      "https://bestadperf.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://bestadperf.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "blueaff.com",
+    "hosts_seen": [
+      "publisher.blueaff.com",
+      "r.blueaff.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:19.351388+00:00",
+    "url": "https://blueaff.com/",
+    "status": 200,
+    "final_url": "https://blueaff.com/",
+    "bytes": 2317,
+    "raw_file": "blueaff.com.html",
+    "sha256": "59bbb4e03dbecfa3b54fb7cdfc1c38bf3620e136a47b3f4d0d03cbb6ff0637f7",
+    "signatures": [],
+    "title": "BlueAFF"
+  },
+  {
+    "domain": "brandreward.com",
+    "hosts_seen": [
+      "r.brandreward.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:20.265870+00:00",
+    "errors": [
+      "https://brandreward.com/: HTTPError: HTTP Error 403: Forbidden",
+      "http://brandreward.com/: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "domain": "brandswitch.co",
+    "hosts_seen": [
+      "click.brandswitch.co"
+    ],
+    "fetched_utc": "2026-11-17T01:48:21.136288+00:00",
+    "url": "https://brandswitch.co/",
+    "status": 200,
+    "final_url": "https://www.brandswitch.co/us",
+    "bytes": 128868,
+    "raw_file": "brandswitch.co.html",
+    "sha256": "b2f7783fb08712dadac02c4c4224ec1977b0af1cb8fa6aefc22726ab45052e51",
+    "signatures": [],
+    "title": "Brandswitch the US \u2014 Find Alternatives to Any Brand (2026)"
+  },
+  {
+    "domain": "bravodeal.com",
+    "hosts_seen": [
+      "www.bravodeal.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:22.870169+00:00",
+    "url": "https://bravodeal.com/",
+    "status": 200,
+    "final_url": "https://bravodeal.com/",
+    "bytes": 20478,
+    "raw_file": "bravodeal.com.html",
+    "sha256": "c0a6e8e3672434dd1e09d894405a97c89b874dfabb41a6f049e6bcb6cbb404dd",
+    "signatures": [],
+    "title": "Checking your browser - reCAPTCHA"
+  },
+  {
+    "domain": "bwa8.net",
+    "hosts_seen": [
+      "bizchair.bwa8.net"
+    ],
+    "fetched_utc": "2026-11-17T01:48:23.849052+00:00",
+    "errors": [
+      "https://bwa8.net/: HTTPError: HTTP Error 404: Not Found",
+      "http://bwa8.net/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "cj.com",
+    "hosts_seen": [
+      "members.cj.com",
+      "public.cj.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:24.919511+00:00",
+    "errors": [
+      "https://cj.com/: URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    ],
+    "url": "http://cj.com/",
+    "status": 200,
+    "final_url": "https://www.cj.com/",
+    "bytes": 185865,
+    "raw_file": "cj.com.html",
+    "sha256": "89ea908c77578ee7e9822d53e2ed9abf185b0eba3c49595bb2cd1d848f0da619",
+    "signatures": [],
+    "title": "CJ.com Home"
+  },
+  {
+    "domain": "cleviationly.com",
+    "hosts_seen": [
+      "cleviationly.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:29.671672+00:00",
+    "url": "https://cleviationly.com/",
+    "status": 200,
+    "final_url": "https://cleviationly.com/",
+    "bytes": 76491,
+    "raw_file": "cleviationly.com.html",
+    "sha256": "989f18e02a7dcc3fe78a9620004e565d7fb3aa20cb39cc2b8ad8b6a0a38ac60e",
+    "signatures": [
+      "bidding_system",
+      "churchill",
+      "foil_cookie",
+      "forget_js",
+      "gmail_handle",
+      "sitename_class"
+    ],
+    "title": ""
+  },
+  {
+    "domain": "coontx.com",
+    "hosts_seen": [
+      "ad.coontx.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:31.510525+00:00",
+    "url": "https://coontx.com/",
+    "status": 200,
+    "final_url": "https://coontx.com/",
+    "bytes": 68961,
+    "raw_file": "coontx.com.html",
+    "sha256": "f523e0519d3e8a9c2763867dcd645ec877c09bcd778b444d42bff8c8b1ea3fa4",
+    "signatures": [],
+    "title": "Global Performance Marketing Network - Discover Coontx"
+  },
+  {
+    "domain": "dgtrk2.com",
+    "hosts_seen": [
+      "trx.dgtrk2.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:32.698248+00:00",
+    "url": "https://dgtrk2.com/",
+    "status": 200,
+    "final_url": "https://dgtrk2.com/",
+    "bytes": 114,
+    "raw_file": "dgtrk2.com.html",
+    "sha256": "6dc9c7fc93bb488bb0520a6c780a8d3c0fb5486a4711aca49b4c53fac7393023",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "digidip.net",
+    "hosts_seen": [
+      "brandswitch.digidip.net",
+      "cnet-shopping.digidip.net",
+      "tracking.r.digidip.net"
+    ],
+    "fetched_utc": "2026-11-17T01:48:33.512056+00:00",
+    "url": "https://digidip.net/",
+    "status": 200,
+    "final_url": "https://digidip.net/",
+    "bytes": 146500,
+    "raw_file": "digidip.net.html",
+    "sha256": "5768b1a961f3d41c2207921add4d627988ba5cacab12a357af4c821ad8c0a263",
+    "signatures": [],
+    "title": "digidip"
+  },
+  {
+    "domain": "discounthero.org",
+    "hosts_seen": [
+      "discounthero.org"
+    ],
+    "fetched_utc": "2026-11-17T01:48:35.521981+00:00",
+    "url": "https://discounthero.org/",
+    "status": 200,
+    "final_url": "https://discounthero.org/th",
+    "bytes": 43163,
+    "raw_file": "discounthero.org.html",
+    "sha256": "b0a038a3d635de12278becd8264c973a96efd0a5b66a94ef36b97387b57ef64b",
+    "signatures": [],
+    "title": "discounthero.org"
+  },
+  {
+    "domain": "dmakingsilverripple.com",
+    "hosts_seen": [
+      "dmakingsilverripple.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:40.225081+00:00",
+    "url": "https://dmakingsilverripple.com/",
+    "status": 204,
+    "final_url": "https://dmakingsilverripple.com/",
+    "bytes": 0,
+    "raw_file": "dmakingsilverripple.com.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "dotomi.com",
+    "hosts_seen": [
+      "cj.dotomi.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:41.159414+00:00",
+    "url": "https://dotomi.com/",
+    "status": 200,
+    "final_url": "https://www.epsilon.com/us?redirect=dotomi",
+    "bytes": 309638,
+    "raw_file": "dotomi.com.html",
+    "sha256": "6c12940a76a22f254e580490e468a3e6be35252fa8fcfd15833efda56479a4f4",
+    "signatures": [],
+    "title": "Unlock marketing&#x27;s full potential | Epsilon US"
+  },
+  {
+    "domain": "dpbolvw.net",
+    "hosts_seen": [
+      "www.dpbolvw.net"
+    ],
+    "fetched_utc": "2026-11-17T01:48:44.352674+00:00",
+    "errors": [
+      "https://dpbolvw.net/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://dpbolvw.net/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "ebay.com",
+    "hosts_seen": [
+      "rover.ebay.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:44.822019+00:00",
+    "errors": [
+      "https://ebay.com/: HTTPError: HTTP Error 403: Forbidden",
+      "http://ebay.com/: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "domain": "emjcd.com",
+    "hosts_seen": [
+      "www.emjcd.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:46.731337+00:00",
+    "errors": [
+      "https://emjcd.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://emjcd.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "exactag.com",
+    "hosts_seen": [
+      "m.exactag.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:47.216300+00:00",
+    "errors": [
+      "https://exactag.com/: HTTPError: HTTP Error 403: Forbidden"
+    ],
+    "url": "http://exactag.com/",
+    "status": 200,
+    "final_url": "https://exactag.com/",
+    "bytes": 179213,
+    "raw_file": "exactag.com.html",
+    "sha256": "506ff135bfc5ee353454cfa2b220720a1355905e41e5ade45e886abffb3241e3",
+    "signatures": [],
+    "title": "Marketing Performance Platform | Exactag MTA, MMM &amp; more"
+  },
+  {
+    "domain": "fatcoupon.com",
+    "hosts_seen": [
+      "fatcoupon.com",
+      "link.fatcoupon.com",
+      "redirect.partner.fatcoupon.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:49.687418+00:00",
+    "url": "https://fatcoupon.com/",
+    "status": 200,
+    "final_url": "https://fatcoupon.com/",
+    "bytes": 192800,
+    "raw_file": "fatcoupon.com.html",
+    "sha256": "8cde278db5f75d3fc1e4b7bc93f2febdfc2e266a0cfe9579a244ecd1af9526cd",
+    "signatures": [],
+    "title": "FatCoupon Shopping | Cashback, Promo Codes, and Millions of Deals"
+  },
+  {
+    "domain": "flexlinkspro.com",
+    "hosts_seen": [
+      "track.flexlinkspro.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:50.940956+00:00",
+    "errors": [
+      "https://flexlinkspro.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://flexlinkspro.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "fxo.co",
+    "hosts_seen": [
+      "levi.fxo.co"
+    ],
+    "fetched_utc": "2026-11-17T01:48:51.444622+00:00",
+    "errors": [
+      "https://fxo.co/: HTTPError: HTTP Error 403: Forbidden",
+      "http://fxo.co/: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "domain": "getfeedz.com",
+    "hosts_seen": [
+      "api-prod.getfeedz.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:52.338224+00:00",
+    "url": "https://getfeedz.com/",
+    "status": 200,
+    "final_url": "https://getfeedz.com/",
+    "bytes": 66145,
+    "raw_file": "getfeedz.com.html",
+    "sha256": "a4c04b7d1206c46cd1643981fba3ac4ffbd5d2373a6f2afa3cd7e85e60a19569",
+    "signatures": [],
+    "title": "Get Feedz Inc - GetFeedz Inc"
+  },
+  {
+    "domain": "goshoptoday.com",
+    "hosts_seen": [
+      "offers.goshoptoday.com"
+    ],
+    "fetched_utc": "2026-11-17T01:48:54.446388+00:00",
+    "url": "https://goshoptoday.com/",
+    "status": 200,
+    "final_url": "https://goshoptoday.com/",
+    "bytes": 114,
+    "raw_file": "goshoptoday.com.html",
+    "sha256": "6dc9c7fc93bb488bb0520a6c780a8d3c0fb5486a4711aca49b4c53fac7393023",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "haujjd.net",
+    "hosts_seen": [
+      "petsmart.haujjd.net"
+    ],
+    "fetched_utc": "2026-11-17T01:48:55.509029+00:00",
+    "errors": [
+      "https://haujjd.net/: HTTPError: HTTP Error 404: Not Found",
+      "http://haujjd.net/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "idx.one",
+    "hosts_seen": [
+      "idx.one"
+    ],
+    "fetched_utc": "2026-11-17T01:48:57.088595+00:00",
+    "url": "https://idx.one/",
+    "status": 200,
+    "final_url": "https://idx.one/",
+    "bytes": 2209,
+    "raw_file": "idx.one.html",
+    "sha256": "5601e440d1579b038232341948f25fb1e0a203e7d49132b8e43c4f91344a9d76",
+    "signatures": [],
+    "title": "IDX.one"
+  },
+  {
+    "domain": "igs4ds.net",
+    "hosts_seen": [
+      "gap.igs4ds.net"
+    ],
+    "fetched_utc": "2026-11-17T01:48:57.913607+00:00",
+    "errors": [
+      "https://igs4ds.net/: HTTPError: HTTP Error 404: Not Found",
+      "http://igs4ds.net/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "intxfwd.com",
+    "hosts_seen": [
+      "11172415.intxfwd.com"
+    ],
+    "fetched_utc": "2026-11-17T01:49:00.045384+00:00",
+    "url": "https://intxfwd.com/",
+    "status": 200,
+    "final_url": "https://intxfwd.com/",
+    "bytes": 1536,
+    "raw_file": "intxfwd.com.html",
+    "sha256": "1534534c691d57f581d7e2731432c5c0c066f494890a3cb0aa1a469ba1b0460a",
+    "signatures": [],
+    "title": "Page Not Found"
+  },
+  {
+    "domain": "jdoqocy.com",
+    "hosts_seen": [
+      "www.jdoqocy.com"
+    ],
+    "fetched_utc": "2026-11-17T01:49:01.582941+00:00",
+    "errors": [
+      "https://jdoqocy.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://jdoqocy.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "juicycouturebeauty.com",
+    "hosts_seen": [
+      "juicycouturebeauty.com",
+      "www.juicycouturebeauty.com"
+    ],
+    "fetched_utc": "2026-11-17T01:49:02.097385+00:00",
+    "errors": [
+      "https://juicycouturebeauty.com/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>",
+      "http://juicycouturebeauty.com/: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>"
+    ]
+  },
+  {
+    "domain": "kqzyfj.com",
+    "hosts_seen": [
+      "www.kqzyfj.com"
+    ],
+    "fetched_utc": "2026-11-17T01:49:04.537459+00:00",
+    "errors": [
+      "https://kqzyfj.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://kqzyfj.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "linksprf.com",
+    "hosts_seen": [
+      "r.linksprf.com"
+    ],
+    "fetched_utc": "2026-11-17T01:49:04.983629+00:00",
+    "url": "https://linksprf.com/",
+    "status": 200,
+    "final_url": "https://linksprf.com/",
+    "bytes": 32203,
+    "raw_file": "linksprf.com.html",
+    "sha256": "439511b14274de9201b5c2dc0daa01470bb172187e7ecf7cdd9a9737e4ec75f5",
+    "signatures": [],
+    "title": "\u25b7 SRVTRCK Technology platform for monetizing website content"
+  },
+  {
+    "domain": "linksynergy.com",
+    "hosts_seen": [
+      "click.linksynergy.com"
+    ],
+    "fetched_utc": "2026-11-17T01:49:06.585928+00:00",
+    "errors": [
+      "https://linksynergy.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://linksynergy.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "matrixsyncflow.com",
+    "hosts_seen": [
+      "matrixsyncflow.com"
+    ],
+    "fetched_utc": "2026-11-17T01:49:07.114584+00:00",
+    "errors": [
+      "https://matrixsyncflow.com/: HTTPError: HTTP Error 404: Not Found",
+      "http://matrixsyncflow.com/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "memberofferings.com",
+    "hosts_seen": [
+      "hertz.memberofferings.com"
+    ],
+    "fetched_utc": "2026-11-17T01:49:09.374467+00:00",
+    "url": "https://memberofferings.com/",
+    "status": 200,
+    "final_url": "https://memberofferings.com/",
+    "bytes": 77047,
+    "raw_file": "memberofferings.com.html",
+    "sha256": "6359b571390ec0439b7ea15f117bd8c9894f3f5a068ae5397dee3b104d6c97c4",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "mftrking.com",
+    "hosts_seen": [
+      "mftrking.com"
+    ],
+    "fetched_utc": "2026-11-17T01:49:11.400618+00:00",
+    "url": "https://mftrking.com/",
+    "status": 200,
+    "final_url": "https://mftrking.com/",
+    "bytes": 76491,
+    "raw_file": "mftrking.com.html",
+    "sha256": "8597d9fec2a4ad0aebe44e68fd70440a16c918bfa23ca8e5c4822bb27d39e1a9",
+    "signatures": [
+      "bidding_system",
+      "churchill",
+      "foil_cookie",
+      "forget_js",
+      "gmail_handle",
+      "sitename_class"
+    ],
+    "title": ""
+  },
+  {
+    "domain": "mission.com",
+    "hosts_seen": [
+      "mission.com",
+      "www.mission.com"
+    ],
+    "fetched_utc": "2026-11-17T01:49:12.951824+00:00",
+    "url": "https://mission.com/",
+    "status": 200,
+    "final_url": "https://www.mission.com/",
+    "bytes": 684387,
+    "raw_file": "mission.com.html",
+    "sha256": "3d2af91a262ea470743e43ac955e58328b08d5e4da1dc2d6ba2eb1b9248e5d46",
+    "signatures": [],
+    "title": "Instant Cooling Apparel for Active Lifestyles | MISSION"
+  },
+  {
+    "domain": "mplxtms.com",
+    "hosts_seen": [
+      "cj.mplxtms.com"
+    ],
+    "fetched_utc": "2026-11-17T01:49:14.398359+00:00",
+    "errors": [
+      "https://mplxtms.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://mplxtms.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "mydreamsauknd.org",
+    "hosts_seen": [
+      "mydreamsauknd.org"
+    ],
+    "fetched_utc": "2026-11-17T01:49:14.953062+00:00",
+    "url": "https://mydreamsauknd.org/",
+    "status": 204,
+    "final_url": "https://mydreamsauknd.org/",
+    "bytes": 0,
+    "raw_file": "mydreamsauknd.org.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "next2.io",
+    "hosts_seen": [
+      "c.next2.io"
+    ],
+    "fetched_utc": "2026-11-17T01:49:15.905774+00:00",
+    "errors": [
+      "https://next2.io/: HTTPError: HTTP Error 503: Service Unavailable",
+      "http://next2.io/: HTTPError: HTTP Error 503: Service Unavailable"
+    ]
+  },
+  {
+    "domain": "ojrq.net",
+    "hosts_seen": [
+      "www.ojrq.net"
+    ],
+    "fetched_utc": "2026-11-17T01:49:17.234029+00:00",
+    "errors": [
+      "https://ojrq.net/: URLError: <urlopen error timed out>",
+      "http://ojrq.net/: URLError: <urlopen error timed out>"
+    ]
+  },
+  {
+    "domain": "onepath.io",
+    "hosts_seen": [
+      "blockchaincouncil.onepath.io",
+      "rc.onepath.io"
+    ],
+    "fetched_utc": "2026-11-17T01:50:17.716083+00:00",
+    "errors": [
+      "https://onepath.io/: HTTPError: HTTP Error 404: Not Found",
+      "http://onepath.io/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "oxz.one",
+    "hosts_seen": [
+      "oxz.one"
+    ],
+    "fetched_utc": "2026-11-17T01:50:18.383232+00:00",
+    "errors": [
+      "https://oxz.one/: HTTPError: HTTP Error 404: Not Found",
+      "http://oxz.one/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "pepperjamnetwork.com",
+    "hosts_seen": [
+      "c.pepperjamnetwork.com",
+      "pepperjamnetwork.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:18.946185+00:00",
+    "url": "https://pepperjamnetwork.com/",
+    "status": 200,
+    "final_url": "https://www.ascendpartner.com/",
+    "bytes": 44556,
+    "raw_file": "pepperjamnetwork.com.html",
+    "sha256": "0b1b242d8604e27857fa3672240b5cfa2a7c3ac980c6e0557049caf366bf0ba1",
+    "signatures": [],
+    "title": "Pepperjam's Ascend Affiliate Platform"
+  },
+  {
+    "domain": "pixelflowhub.com",
+    "hosts_seen": [
+      "pixelflowhub.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:21.946873+00:00",
+    "errors": [
+      "https://pixelflowhub.com/: HTTPError: HTTP Error 400: Bad Request",
+      "http://pixelflowhub.com/: HTTPError: HTTP Error 400: Bad Request"
+    ]
+  },
+  {
+    "domain": "pjatr.com",
+    "hosts_seen": [
+      "www.pjatr.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:23.528375+00:00",
+    "url": "https://pjatr.com/",
+    "status": 200,
+    "final_url": "https://www.ascendpartner.com/",
+    "bytes": 44556,
+    "raw_file": "pjatr.com.html",
+    "sha256": "0b1b242d8604e27857fa3672240b5cfa2a7c3ac980c6e0557049caf366bf0ba1",
+    "signatures": [],
+    "title": "Pepperjam's Ascend Affiliate Platform"
+  },
+  {
+    "domain": "pjtra.com",
+    "hosts_seen": [
+      "www.pjtra.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:26.329294+00:00",
+    "url": "https://pjtra.com/",
+    "status": 200,
+    "final_url": "https://www.ascendpartner.com/",
+    "bytes": 44556,
+    "raw_file": "pjtra.com.html",
+    "sha256": "0b1b242d8604e27857fa3672240b5cfa2a7c3ac980c6e0557049caf366bf0ba1",
+    "signatures": [],
+    "title": "Pepperjam's Ascend Affiliate Platform"
+  },
+  {
+    "domain": "pntra.com",
+    "hosts_seen": [
+      "www.pntra.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:29.116451+00:00",
+    "url": "https://pntra.com/",
+    "status": 200,
+    "final_url": "https://www.ascendpartner.com/",
+    "bytes": 44556,
+    "raw_file": "pntra.com.html",
+    "sha256": "0b1b242d8604e27857fa3672240b5cfa2a7c3ac980c6e0557049caf366bf0ba1",
+    "signatures": [],
+    "title": "Pepperjam's Ascend Affiliate Platform"
+  },
+  {
+    "domain": "pntrac.com",
+    "hosts_seen": [
+      "www.pntrac.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:31.925928+00:00",
+    "url": "https://pntrac.com/",
+    "status": 200,
+    "final_url": "https://www.ascendpartner.com/",
+    "bytes": 44556,
+    "raw_file": "pntrac.com.html",
+    "sha256": "0b1b242d8604e27857fa3672240b5cfa2a7c3ac980c6e0557049caf366bf0ba1",
+    "signatures": [],
+    "title": "Pepperjam's Ascend Affiliate Platform"
+  },
+  {
+    "domain": "pntrk.com",
+    "hosts_seen": [
+      "pntrk.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:34.724580+00:00",
+    "errors": [
+      "https://pntrk.com/: HTTPError: HTTP Error 404: Not Found",
+      "http://pntrk.com/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "pntrs.com",
+    "hosts_seen": [
+      "www.pntrs.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:37.518310+00:00",
+    "url": "https://pntrs.com/",
+    "status": 200,
+    "final_url": "https://www.ascendpartner.com/",
+    "bytes": 44556,
+    "raw_file": "pntrs.com.html",
+    "sha256": "0b1b242d8604e27857fa3672240b5cfa2a7c3ac980c6e0557049caf366bf0ba1",
+    "signatures": [],
+    "title": "Pepperjam's Ascend Affiliate Platform"
+  },
+  {
+    "domain": "prf.hn",
+    "hosts_seen": [
+      "adorama.prf.hn",
+      "kogancom.prf.hn",
+      "merlin.prf.hn",
+      "prf.hn",
+      "staplescom.prf.hn"
+    ],
+    "fetched_utc": "2026-11-17T01:50:40.496121+00:00",
+    "url": "https://prf.hn/",
+    "status": 200,
+    "final_url": "https://prf.hn/",
+    "bytes": 0,
+    "raw_file": "prf.hn.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "provenpixel.com",
+    "hosts_seen": [
+      "lg-brn.provenpixel.com",
+      "lg-crl.provenpixel.com",
+      "lg-dbr.provenpixel.com",
+      "lg-mgr.provenpixel.com",
+      "lg-twn.provenpixel.com",
+      "lg-zhr.provenpixel.com",
+      "lg.provenpixel.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:41.501583+00:00",
+    "url": "https://provenpixel.com/",
+    "status": 200,
+    "final_url": "https://provenpixel.com/",
+    "bytes": 9343,
+    "raw_file": "provenpixel.com.html",
+    "sha256": "42afb6f835cd6f697e39a67f6585b905cdda03d40dc1f4d7ae85c8261bcd61dc",
+    "signatures": [],
+    "title": "SourceKnowledge Ad Server"
+  },
+  {
+    "domain": "ptherehecriedi.org",
+    "hosts_seen": [
+      "ptherehecriedi.org"
+    ],
+    "fetched_utc": "2026-11-17T01:50:43.111008+00:00",
+    "url": "https://ptherehecriedi.org/",
+    "status": 204,
+    "final_url": "https://ptherehecriedi.org/",
+    "bytes": 0,
+    "raw_file": "ptherehecriedi.org.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "pulsesparknet.com",
+    "hosts_seen": [
+      "pulsesparknet.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:44.308770+00:00",
+    "errors": [
+      "https://pulsesparknet.com/: HTTPError: HTTP Error 404: Not Found",
+      "http://pulsesparknet.com/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "pxf.io",
+    "hosts_seen": [
+      "andie-swim.pxf.io",
+      "equilibriumnutrition.pxf.io",
+      "prioritypass.pxf.io",
+      "seatgeek.pxf.io",
+      "tillys.pxf.io",
+      "tomobottle.pxf.io",
+      "vistaprintna.pxf.io",
+      "wemaxinc.pxf.io"
+    ],
+    "fetched_utc": "2026-11-17T01:50:46.110598+00:00",
+    "errors": [
+      "https://pxf.io/: HTTPError: HTTP Error 404: Not Found",
+      "http://pxf.io/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "rapidlinks.info",
+    "hosts_seen": [
+      "rapidlinks.info"
+    ],
+    "fetched_utc": "2026-11-17T01:50:46.707335+00:00",
+    "url": "https://rapidlinks.info/",
+    "status": 200,
+    "final_url": "https://rapidlinks.info/",
+    "bytes": 0,
+    "raw_file": "rapidlinks.info.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "redirectingat.com",
+    "hosts_seen": [
+      "lb.redirectingat.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:47.786203+00:00",
+    "errors": [
+      "https://redirectingat.com/: HTTPError: HTTP Error 404: Not Found",
+      "http://redirectingat.com/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "revoffers.com",
+    "hosts_seen": [
+      "track.revoffers.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:48.775878+00:00",
+    "url": "https://revoffers.com/",
+    "status": 200,
+    "final_url": "https://katalys.com/",
+    "bytes": 126757,
+    "raw_file": "revoffers.com.html",
+    "sha256": "130cd3db503678c1b787c3d6a2fd45c4def240ebace7f87c5db9eae86c13c88d",
+    "signatures": [],
+    "title": "Katalys - Leading the Commerce Media Evolution"
+  },
+  {
+    "domain": "rewardany.com",
+    "hosts_seen": [
+      "www.rewardany.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:50.660160+00:00",
+    "url": "https://rewardany.com/",
+    "status": 200,
+    "final_url": "https://www.rewardany.com:443/",
+    "bytes": 80092,
+    "raw_file": "rewardany.com.html",
+    "sha256": "a347fe4d043b23e625d225cfaa632c0e511928ee987a9ca9ba4d1a8544632d82",
+    "signatures": [],
+    "title": "RewardAny.com: Where Every Shopper is a Winner!"
+  },
+  {
+    "domain": "savings.com",
+    "hosts_seen": [
+      "www.savings.com"
+    ],
+    "fetched_utc": "2026-11-17T01:50:53.274123+00:00",
+    "errors": [
+      "https://savings.com/: HTTPError: HTTP Error 403: Forbidden",
+      "http://savings.com/: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "domain": "savoo.ca",
+    "hosts_seen": [
+      "www.savoo.ca"
+    ],
+    "fetched_utc": "2026-11-17T01:50:56.010699+00:00",
+    "errors": [
+      "https://savoo.ca/: HTTPError: HTTP Error 403: Forbidden",
+      "http://savoo.ca/: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "domain": "savoo.co.uk",
+    "hosts_seen": [
+      "www.savoo.co.uk"
+    ],
+    "fetched_utc": "2026-11-17T01:50:58.893429+00:00",
+    "errors": [
+      "https://savoo.co.uk/: HTTPError: HTTP Error 403: Forbidden",
+      "http://savoo.co.uk/: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "domain": "shareasale.com",
+    "hosts_seen": [
+      "shareasale.com"
+    ],
+    "fetched_utc": "2026-11-17T01:51:01.400154+00:00",
+    "url": "https://shareasale.com/",
+    "status": 200,
+    "final_url": "https://www.awin.com/us/getting-started-sas?utm_medium=redirect&utm_source=shareasale.com",
+    "bytes": 147731,
+    "raw_file": "shareasale.com.html",
+    "sha256": "78fd67f81656d335e21e75859c1a874797b5dbc19666ddbf03f57041792a17c5",
+    "signatures": [],
+    "title": "ShareASale Is Now Awin - Sign Up for Awin's Affiliate Program | Awin"
+  },
+  {
+    "domain": "sharesyndication.com",
+    "hosts_seen": [
+      "sharesyndication.com"
+    ],
+    "fetched_utc": "2026-11-17T01:51:03.505112+00:00",
+    "errors": [
+      "https://sharesyndication.com/: HTTPError: HTTP Error 400: Bad Request",
+      "http://sharesyndication.com/: HTTPError: HTTP Error 400: Bad Request"
+    ]
+  },
+  {
+    "domain": "shoppingwaves.net",
+    "hosts_seen": [
+      "search.shoppingwaves.net"
+    ],
+    "fetched_utc": "2026-11-17T01:51:07.077052+00:00",
+    "url": "https://shoppingwaves.net/",
+    "status": 200,
+    "final_url": "https://shoppingwaves.net/",
+    "bytes": 1176,
+    "raw_file": "shoppingwaves.net.html",
+    "sha256": "2aeec722d33146adf85404fc588c41868d511383cc708dfd76a69be58885d272",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "shoptastic.io",
+    "hosts_seen": [
+      "www.shoptastic.io"
+    ],
+    "fetched_utc": "2026-11-17T01:51:08.222637+00:00",
+    "url": "https://shoptastic.io/",
+    "status": 200,
+    "final_url": "https://www.shoptastic.io:443/",
+    "bytes": 78810,
+    "raw_file": "shoptastic.io.html",
+    "sha256": "f675785abbd80c12e6b780d938df69b58f58328724625e3e166878d67e51078c",
+    "signatures": [],
+    "title": "Where Every Purchase Unleashes the Fantastic in Shopping!"
+  },
+  {
+    "domain": "sjv.io",
+    "hosts_seen": [
+      "airport-lax.sjv.io",
+      "brooksrunning.sjv.io",
+      "chasingpaper.sjv.io",
+      "ciciful.sjv.io",
+      "cvshealth.sjv.io",
+      "halfpricedrapes.sjv.io",
+      "homedepot.sjv.io",
+      "jbtools.sjv.io",
+      "jenson.sjv.io",
+      "kohls.sjv.io",
+      "purespectrumcbd.sjv.io",
+      "qustodio.sjv.io",
+      "scandiborn.sjv.io",
+      "spinlife.sjv.io",
+      "stixgolf.sjv.io"
+    ],
+    "fetched_utc": "2026-11-17T01:51:11.920624+00:00",
+    "errors": [
+      "https://sjv.io/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://sjv.io/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "sparkwavenet.com",
+    "hosts_seen": [
+      "sparkwavenet.com"
+    ],
+    "fetched_utc": "2026-11-17T01:51:12.398418+00:00",
+    "errors": [
+      "https://sparkwavenet.com/: HTTPError: HTTP Error 404: Not Found",
+      "http://sparkwavenet.com/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "stay22.com",
+    "hosts_seen": [
+      "www.stay22.com"
+    ],
+    "fetched_utc": "2026-11-17T01:51:14.711265+00:00",
+    "url": "https://stay22.com/",
+    "status": 200,
+    "final_url": "https://www.stay22.com/",
+    "bytes": 285567,
+    "raw_file": "stay22.com.html",
+    "sha256": "a7167a78f52cee7d892f768a6944b42ef73e7a0c7e41d3010ab177400de2932d",
+    "signatures": [],
+    "title": "Stay22 Affiliate Partner Program"
+  },
+  {
+    "domain": "streamforgeweb.com",
+    "hosts_seen": [
+      "streamforgeweb.com"
+    ],
+    "fetched_utc": "2026-11-17T01:51:16.546985+00:00",
+    "errors": [
+      "https://streamforgeweb.com/: HTTPError: HTTP Error 400: Bad Request",
+      "http://streamforgeweb.com/: HTTPError: HTTP Error 400: Bad Request"
+    ]
+  },
+  {
+    "domain": "tatrck.com",
+    "hosts_seen": [
+      "tatrck.com"
+    ],
+    "fetched_utc": "2026-11-17T01:51:19.236623+00:00",
+    "url": "https://tatrck.com/",
+    "status": 200,
+    "final_url": "https://tatrck.com/",
+    "bytes": 21,
+    "raw_file": "tatrck.com.html",
+    "sha256": "8d30aaa26ca4bd9a2e54bb7ce5fb5f41e53c3b5f17895f259fd94a0380ef3830",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "theviralkit.com",
+    "hosts_seen": [
+      "shop.theviralkit.com"
+    ],
+    "fetched_utc": "2026-11-17T01:51:21.119708+00:00",
+    "url": "https://theviralkit.com/",
+    "status": 200,
+    "final_url": "https://theviralkit.com/",
+    "bytes": 111204,
+    "raw_file": "theviralkit.com.html",
+    "sha256": "46acedf4aa8c9be03def4224374e5200dcf625397dba852732b050cd60897a33",
+    "signatures": [],
+    "title": "TheViralKit | Expert Reviews, Buying Guides &amp; Comparisons"
+  },
+  {
+    "domain": "thevospad.com",
+    "hosts_seen": [
+      "thevospad.com"
+    ],
+    "fetched_utc": "2026-11-17T01:51:26.422028+00:00",
+    "url": "https://thevospad.com/",
+    "status": 200,
+    "final_url": "https://thevospad.com/",
+    "bytes": 6774,
+    "raw_file": "thevospad.com.html",
+    "sha256": "892f093564c93eece6b607fa7dead8a8a700808390693f5ba65877d3601125fa",
+    "signatures": [],
+    "title": "Admitad"
+  },
+  {
+    "domain": "tkqlhce.com",
+    "hosts_seen": [
+      "www.tkqlhce.com"
+    ],
+    "fetched_utc": "2026-11-17T01:51:27.575308+00:00",
+    "errors": [
+      "https://tkqlhce.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://tkqlhce.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "trackcitg.com",
+    "hosts_seen": [
+      "trackcitg.com"
+    ],
+    "fetched_utc": "2026-11-17T01:51:28.162394+00:00",
+    "errors": [
+      "https://trackcitg.com/: URLError: <urlopen error timed out>",
+      "http://trackcitg.com/: URLError: <urlopen error timed out>"
+    ]
+  },
+  {
+    "domain": "umtugxsg.com",
+    "hosts_seen": [
+      "umtugxsg.com"
+    ],
+    "fetched_utc": "2026-11-17T01:51:58.877456+00:00",
+    "url": "https://umtugxsg.com/",
+    "status": 200,
+    "final_url": "https://umtugxsg.com/",
+    "bytes": 109,
+    "raw_file": "umtugxsg.com.html",
+    "sha256": "099d7a8a4466d1db1821b4783d74b07c7fd8c795eeea0643d5b723c4a10cf6f3",
+    "signatures": [],
+    "title": ""
+  },
+  {
+    "domain": "unctew.com",
+    "hosts_seen": [
+      "unctew.com"
+    ],
+    "fetched_utc": "2026-11-17T01:52:00.155574+00:00",
+    "url": "https://unctew.com/",
+    "status": 200,
+    "final_url": "https://unctew.com/",
+    "bytes": 76491,
+    "raw_file": "unctew.com.html",
+    "sha256": "fdb4f35fa3da3a93a8001895c5739b558b44c25b966e8ee8b8c2b9fc371a0df6",
+    "signatures": [
+      "bidding_system",
+      "churchill",
+      "foil_cookie",
+      "forget_js",
+      "gmail_handle",
+      "sitename_class"
+    ],
+    "title": ""
+  },
+  {
+    "domain": "v2i8b.com",
+    "hosts_seen": [
+      "r.v2i8b.com"
+    ],
+    "fetched_utc": "2026-11-17T01:52:01.796901+00:00",
+    "errors": [
+      "https://v2i8b.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+      "http://v2i8b.com/: URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "domain": "viglink.com",
+    "hosts_seen": [
+      "redirect.viglink.com"
+    ],
+    "fetched_utc": "2026-11-17T01:52:02.423453+00:00",
+    "url": "https://viglink.com/",
+    "status": 200,
+    "final_url": "https://www.sovrn.com/commerce/?utm_source=viglink",
+    "bytes": 161033,
+    "raw_file": "viglink.com.html",
+    "sha256": "5a37a427474d3361f1b8d67d650aa84cb8c2c0441e4058271406333b8580d43f",
+    "signatures": [],
+    "title": "Commerce - Sovrn, Inc."
+  },
+  {
+    "domain": "vipbidpanel.com",
+    "hosts_seen": [
+      "vipbidpanel.com"
+    ],
+    "fetched_utc": "2026-11-17T01:52:08.193147+00:00",
+    "url": "https://vipbidpanel.com/",
+    "status": 200,
+    "final_url": "https://vipbidpanel.com/admin/login",
+    "bytes": 30665,
+    "raw_file": "vipbidpanel.com.html",
+    "sha256": "85b25f4c0fe843f38d0483a41fcbb23813a85382f283c76d57b9df96a165c270",
+    "signatures": [],
+    "title": "Login\n             - \n            RTB DSP"
+  },
+  {
+    "domain": "webmatrixflow.com",
+    "hosts_seen": [
+      "webmatrixflow.com"
+    ],
+    "fetched_utc": "2026-11-17T01:52:10.707953+00:00",
+    "errors": [
+      "https://webmatrixflow.com/: HTTPError: HTTP Error 404: Not Found",
+      "http://webmatrixflow.com/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "wiregeardesk.com",
+    "hosts_seen": [
+      "wiregeardesk.com"
+    ],
+    "fetched_utc": "2026-11-17T01:52:13.581821+00:00",
+    "errors": [
+      "https://wiregeardesk.com/: HTTPError: HTTP Error 400: Bad Request",
+      "http://wiregeardesk.com/: HTTPError: HTTP Error 400: Bad Request"
+    ]
+  },
+  {
+    "domain": "wobeleo.com",
+    "hosts_seen": [
+      "wobeleo.com"
+    ],
+    "fetched_utc": "2026-11-17T01:52:15.377578+00:00",
+    "url": "https://wobeleo.com/",
+    "status": 200,
+    "final_url": "https://wobeleo.com/",
+    "bytes": 76491,
+    "raw_file": "wobeleo.com.html",
+    "sha256": "15f30ec17e02dc91b66eb158893691787ff4b4d64da5d643e82ede6e6ab72f85",
+    "signatures": [
+      "bidding_system",
+      "churchill",
+      "foil_cookie",
+      "forget_js",
+      "gmail_handle",
+      "sitename_class"
+    ],
+    "title": ""
+  },
+  {
+    "domain": "xkpq.net",
+    "hosts_seen": [
+      "crocs-us.xkpq.net"
+    ],
+    "fetched_utc": "2026-11-17T01:52:17.036569+00:00",
+    "errors": [
+      "https://xkpq.net/: HTTPError: HTTP Error 404: Not Found",
+      "http://xkpq.net/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "ztk5.net",
+    "hosts_seen": [
+      "ulta.ztk5.net"
+    ],
+    "fetched_utc": "2026-11-17T01:52:18.439098+00:00",
+    "errors": [
+      "https://ztk5.net/: HTTPError: HTTP Error 404: Not Found",
+      "http://ztk5.net/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "domain": "zvq6.net",
+    "hosts_seen": [
+      "steepandcheap.zvq6.net"
+    ],
+    "fetched_utc": "2026-11-17T01:52:19.482584+00:00",
+    "errors": [
+      "https://zvq6.net/: HTTPError: HTTP Error 404: Not Found",
+      "http://zvq6.net/: HTTPError: HTTP Error 404: Not Found"
+    ]
+  }
+]

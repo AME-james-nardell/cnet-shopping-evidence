@@ -1,0 +1,322 @@
+[
+  {
+    "rid": 7402,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=7402&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:36.184423Z",
+    "status": 200,
+    "raw_file": "cnet-rid7402.json"
+  },
+  {
+    "rid": 7402,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=7402&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:37.450590Z",
+    "status": 200,
+    "raw_file": "priceblink-rid7402.json"
+  },
+  {
+    "rid": 1749,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=1749&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:38.667793Z",
+    "status": 200,
+    "raw_file": "cnet-rid1749.json"
+  },
+  {
+    "rid": 1749,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=1749&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:39.953634Z",
+    "status": 200,
+    "raw_file": "priceblink-rid1749.json"
+  },
+  {
+    "rid": 1655,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=1655&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:40.963364Z",
+    "status": 200,
+    "raw_file": "cnet-rid1655.json"
+  },
+  {
+    "rid": 1655,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=1655&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:42.074755Z",
+    "status": 200,
+    "raw_file": "priceblink-rid1655.json"
+  },
+  {
+    "rid": 1923,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=1923&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:43.193493Z",
+    "status": 200,
+    "raw_file": "cnet-rid1923.json"
+  },
+  {
+    "rid": 1923,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=1923&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:44.503194Z",
+    "status": 200,
+    "raw_file": "priceblink-rid1923.json"
+  },
+  {
+    "rid": 225,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=225&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:45.528487Z",
+    "status": 200,
+    "raw_file": "cnet-rid225.json"
+  },
+  {
+    "rid": 225,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=225&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:46.734164Z",
+    "status": 200,
+    "raw_file": "priceblink-rid225.json"
+  },
+  {
+    "rid": 4,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=4&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:47.836871Z",
+    "status": 200,
+    "raw_file": "cnet-rid4.json"
+  },
+  {
+    "rid": 4,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=4&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:48.871727Z",
+    "status": 200,
+    "raw_file": "priceblink-rid4.json"
+  },
+  {
+    "rid": 233,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=233&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:49.988327Z",
+    "status": 200,
+    "raw_file": "cnet-rid233.json"
+  },
+  {
+    "rid": 233,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=233&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:51.001031Z",
+    "status": 200,
+    "raw_file": "priceblink-rid233.json"
+  },
+  {
+    "rid": 3699,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=3699&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:53.125050Z",
+    "status": 200,
+    "raw_file": "cnet-rid3699.json"
+  },
+  {
+    "rid": 3699,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=3699&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:54.174727Z",
+    "status": 200,
+    "raw_file": "priceblink-rid3699.json"
+  },
+  {
+    "rid": 1713,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=1713&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:56.382103Z",
+    "status": 200,
+    "raw_file": "cnet-rid1713.json"
+  },
+  {
+    "rid": 1713,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=1713&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:57.415817Z",
+    "status": 200,
+    "raw_file": "priceblink-rid1713.json"
+  },
+  {
+    "rid": 1824,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=1824&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:58.429305Z",
+    "status": 200,
+    "raw_file": "cnet-rid1824.json"
+  },
+  {
+    "rid": 1824,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=1824&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:26:59.596958Z",
+    "status": 200,
+    "raw_file": "priceblink-rid1824.json"
+  },
+  {
+    "rid": 1696,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=1696&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:00.791209Z",
+    "status": 200,
+    "raw_file": "cnet-rid1696.json"
+  },
+  {
+    "rid": 1696,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=1696&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:01.887389Z",
+    "status": 200,
+    "raw_file": "priceblink-rid1696.json"
+  },
+  {
+    "rid": 162,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=162&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:03.147004Z",
+    "status": 200,
+    "raw_file": "cnet-rid162.json"
+  },
+  {
+    "rid": 162,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=162&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:04.815397Z",
+    "status": 200,
+    "raw_file": "priceblink-rid162.json"
+  },
+  {
+    "rid": 240,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=240&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:06.118933Z",
+    "status": 200,
+    "raw_file": "cnet-rid240.json"
+  },
+  {
+    "rid": 240,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=240&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:07.203565Z",
+    "status": 200,
+    "raw_file": "priceblink-rid240.json"
+  },
+  {
+    "rid": 174,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=174&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:08.247616Z",
+    "status": 200,
+    "raw_file": "cnet-rid174.json"
+  },
+  {
+    "rid": 174,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=174&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:09.437157Z",
+    "status": 200,
+    "raw_file": "priceblink-rid174.json"
+  },
+  {
+    "rid": 29321,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=29321&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:10.587470Z",
+    "status": 200,
+    "raw_file": "cnet-rid29321.json"
+  },
+  {
+    "rid": 29321,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=29321&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:11.849358Z",
+    "status": 200,
+    "raw_file": "priceblink-rid29321.json"
+  },
+  {
+    "rid": 6133,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=6133&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:13.110888Z",
+    "status": 200,
+    "raw_file": "cnet-rid6133.json"
+  },
+  {
+    "rid": 6133,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=6133&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:14.353171Z",
+    "status": 200,
+    "raw_file": "priceblink-rid6133.json"
+  },
+  {
+    "rid": 5504,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=5504&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:15.788785Z",
+    "status": 200,
+    "raw_file": "cnet-rid5504.json"
+  },
+  {
+    "rid": 5504,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=5504&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:16.907105Z",
+    "status": 200,
+    "raw_file": "priceblink-rid5504.json"
+  },
+  {
+    "rid": 7754,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=7754&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:18.055363Z",
+    "status": 200,
+    "raw_file": "cnet-rid7754.json"
+  },
+  {
+    "rid": 7754,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=7754&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:19.214203Z",
+    "status": 200,
+    "raw_file": "priceblink-rid7754.json"
+  },
+  {
+    "rid": 10284,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=10284&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:20.388129Z",
+    "status": 200,
+    "raw_file": "cnet-rid10284.json"
+  },
+  {
+    "rid": 10284,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=10284&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:21.677464Z",
+    "status": 200,
+    "raw_file": "priceblink-rid10284.json"
+  },
+  {
+    "rid": 21,
+    "feed": "cnet",
+    "request_url": "https://shopping.cnet.com/api/v1/coupons?rid=21&uid=<anon-id-coupon-test-1>&browser=chrome&ver=14.33&partnerid=1&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:22.752131Z",
+    "status": 200,
+    "raw_file": "cnet-rid21.json"
+  },
+  {
+    "rid": 21,
+    "feed": "priceblink",
+    "request_url": "https://tb.priceblink.com/coupons?rid=21&uid=<anon-id-coupon-test-1>&browser=chrome&ver=9.18&partnerid=0&code=1&ab=webravoTest",
+    "fetched_utc": "2026-11-16T10:27:24.341505Z",
+    "status": 200,
+    "raw_file": "priceblink-rid21.json"
+  }
+]
