@@ -1,6 +1,6 @@
 # CNET Shopping: evidence files
 
-Evidence for "Deeper Down the Rabbit Hole: CNET Shopping's Compare Button Opens Affiliate Links Too" by James Nardell (Affiliate Manager Expert), which builds on [Ben Edelman's CNET Shopping research](https://www.benedelman.org/close-and-laundering-from-cnet-shopping/). The [methods and evidence note](https://affiliatemanager.expert/cnet-shopping-methods-and-evidence/) maps each claim to the files here.
+Evidence for "[Deeper Down the Rabbit Hole: CNET Shopping's Compare Button Opens Affiliate Links Too](https://affiliatemanager.expert/2026/11/23/cnet-shopping-compare-button-affiliate-links/)" by James Nardell (Affiliate Manager Expert), which builds on [Ben Edelman's CNET Shopping research](https://www.benedelman.org/close-and-laundering-from-cnet-shopping/). The [methods and evidence note](https://affiliatemanager.expert/cnet-shopping-methods-and-evidence/) maps each claim to the files here.
 
 Everything here is a scrubbed copy of a private original. This page says what was removed, what was kept, and how to check both.
 
